@@ -1,0 +1,159 @@
+# packages in environment at C:\ProgramData\Anaconda3\envs\ml-xplore:
+#
+# Name                    Version                   Build  Channel
+aiohttp                   3.6.3            py38he774522_1    anaconda
+argon2-cffi               20.1.0           py38h2bbff1b_1  
+async-timeout             3.0.1                    py38_0    anaconda
+async_generator           1.10               pyhd3eb1b0_0  
+attrs                     21.2.0             pyhd3eb1b0_0  
+backcall                  0.2.0              pyhd3eb1b0_0  
+beautifulsoup4            4.10.0                   pypi_0    pypi
+blas                      1.0                         mkl    anaconda
+bleach                    4.0.0              pyhd3eb1b0_0  
+boto                      2.49.0                   py38_0    anaconda
+boto3                     1.18.21            pyhd3eb1b0_0  
+botocore                  1.21.41            pyhd3eb1b0_1  
+bottleneck                1.3.2            py38h2a96729_1  
+brotlipy                  0.7.0           py38he774522_1000    anaconda
+ca-certificates           2021.9.30            haa95532_1  
+cachetools                4.1.1                      py_0    anaconda
+certifi                   2021.10.8        py38haa95532_0  
+cffi                      1.14.6           py38h2bbff1b_0  
+chardet                   3.0.4                 py38_1003    anaconda
+click                     8.0.1              pyhd3eb1b0_0  
+colorama                  0.4.4              pyhd3eb1b0_0  
+comtypes                  1.1.10                   pypi_0    pypi
+cryptography              3.1.1            py38h7a1dbc1_0    anaconda
+cssselect                 1.1.0                    pypi_0    pypi
+cython                    0.29.23          py38hd77b12b_0  
+debugpy                   1.4.1            py38hd77b12b_0  
+decorator                 5.1.0              pyhd3eb1b0_0  
+defusedxml                0.7.1              pyhd3eb1b0_0  
+entrypoints               0.3                      py38_0  
+feedfinder2               0.0.4                    pypi_0    pypi
+feedparser                6.0.8                    pypi_0    pypi
+filelock                  3.3.1                    pypi_0    pypi
+gensim                    4.0.1            py38hd77b12b_0  
+google-api-core           1.22.2           py38h21ff451_0    anaconda
+google-api-python-client  2.28.0                   pypi_0    pypi
+google-auth               1.22.1                     py_0    anaconda
+google-auth-httplib2      0.1.0                    pypi_0    pypi
+google-cloud-core         1.4.3                      py_0    anaconda
+google-cloud-storage      1.32.0                     py_0    anaconda
+google-crc32c             1.0.0            py38he774522_0    anaconda
+google-resumable-media    1.1.0                      py_1    anaconda
+googleapis-common-protos  1.52.0           py38h21ff451_0    anaconda
+gtts                      2.2.3                    pypi_0    pypi
+httplib2                  0.20.1                   pypi_0    pypi
+icc_rt                    2019.0.0             h0cc432a_1    anaconda
+idna                      2.10                       py_0    anaconda
+importlib-metadata        4.8.1            py38haa95532_0  
+importlib_metadata        4.8.1                hd3eb1b0_0  
+intel-openmp              2021.3.0          haa95532_3372  
+ipykernel                 6.4.1            py38haa95532_1  
+ipython                   7.27.0           py38hd4e2768_0  
+ipython_genutils          0.2.0              pyhd3eb1b0_1  
+jedi                      0.18.0           py38haa95532_1  
+jieba3k                   0.35.1                   pypi_0    pypi
+jinja2                    3.0.1              pyhd3eb1b0_0  
+jmespath                  0.10.0                     py_0    anaconda
+joblib                    1.0.1              pyhd3eb1b0_0  
+jsonschema                3.2.0              pyhd3eb1b0_2  
+jupyter_client            7.0.1              pyhd3eb1b0_0  
+jupyter_core              4.8.1            py38haa95532_0  
+jupyterlab_pygments       0.1.2                      py_0  
+libcrc32c                 1.1.1                ha925a31_2    anaconda
+libprotobuf               3.13.0.1             h200bbdf_0    anaconda
+lxml                      4.6.3                    pypi_0    pypi
+m2w64-gcc-libgfortran     5.3.0                         6  
+m2w64-gcc-libs            5.3.0                         7  
+m2w64-gcc-libs-core       5.3.0                         7  
+m2w64-gmp                 6.1.0                         2  
+m2w64-libwinpthread-git   5.0.0.4634.697f757               2  
+markupsafe                2.0.1            py38h2bbff1b_0  
+matplotlib-inline         0.1.2              pyhd3eb1b0_2  
+mistune                   0.8.4           py38he774522_1000  
+mkl                       2021.3.0           haa95532_524  
+mkl-service               2.4.0            py38h2bbff1b_0  
+mkl_fft                   1.3.1            py38h277e83a_0  
+mkl_random                1.2.2            py38hf11a4ad_0  
+msys2-conda-epoch         20160418                      1  
+multidict                 4.7.6            py38he774522_1    anaconda
+nb_conda_kernels          2.3.1            py38haa95532_0  
+nbclient                  0.5.3              pyhd3eb1b0_0  
+nbconvert                 6.1.0            py38haa95532_0  
+nbformat                  5.1.3              pyhd3eb1b0_0  
+nest-asyncio              1.5.1              pyhd3eb1b0_0  
+newspaper3k               0.2.8                    pypi_0    pypi
+nltk                      3.6.5              pyhd3eb1b0_0  
+notebook                  6.4.3            py38haa95532_0  
+numexpr                   2.7.3            py38hb80d3ca_1  
+numpy                     1.21.2           py38hfca59bb_0  
+numpy-base                1.21.2           py38h0829f74_0  
+openssl                   1.1.1l               h2bbff1b_0  
+packaging                 21.0               pyhd3eb1b0_0  
+pandas                    1.3.3            py38h6214cd6_0  
+pandocfilters             1.4.3            py38haa95532_1  
+parso                     0.8.2              pyhd3eb1b0_0  
+pickleshare               0.7.5           pyhd3eb1b0_1003  
+pillow                    8.4.0                    pypi_0    pypi
+pip                       21.0.1           py38haa95532_0  
+playsound                 1.3.0                    pypi_0    pypi
+prometheus_client         0.11.0             pyhd3eb1b0_0  
+prompt-toolkit            3.0.20             pyhd3eb1b0_0  
+protobuf                  3.13.0.1         py38ha925a31_1    anaconda
+pyasn1                    0.4.8                      py_0    anaconda
+pyasn1-modules            0.2.8                      py_0    anaconda
+pyaudio                   0.2.11                   pypi_0    pypi
+pycparser                 2.20                       py_2  
+pygments                  2.10.0             pyhd3eb1b0_0  
+pyopenssl                 19.1.0                     py_1    anaconda
+pyparsing                 2.4.7              pyhd3eb1b0_0  
+pypiwin32                 223                      pypi_0    pypi
+pyrsistent                0.17.3           py38he774522_0  
+pysocks                   1.7.1                    py38_0    anaconda
+python                    3.8.12               h6244533_0  
+python-dateutil           2.8.2              pyhd3eb1b0_0  
+python_abi                3.8                      2_cp38    conda-forge
+pyttsx3                   2.90                     pypi_0    pypi
+pytz                      2020.1                     py_0    anaconda
+pywin32                   228              py38hbaba5e8_1  
+pywinpty                  0.5.7                    py38_0  
+pyyaml                    6.0                      pypi_0    pypi
+pyzmq                     22.2.1           py38hd77b12b_1  
+regex                     2021.8.3         py38h2bbff1b_0  
+requests                  2.24.0                     py_0    anaconda
+requests-file             1.5.1                    pypi_0    pypi
+rsa                       4.6                        py_0    anaconda
+s3transfer                0.5.0              pyhd3eb1b0_0  
+scipy                     1.7.1            py38hbe87c03_2  
+send2trash                1.8.0              pyhd3eb1b0_1  
+setuptools                58.0.4           py38haa95532_0  
+sgmllib3k                 1.0.0                    pypi_0    pypi
+six                       1.16.0             pyhd3eb1b0_0  
+smart_open                3.0.0                      py_0    anaconda
+soupsieve                 2.2.1                    pypi_0    pypi
+speechrecognition         3.7.1            py38haa244fe_3    conda-forge
+sqlite                    3.36.0               h2bbff1b_0  
+terminado                 0.9.4            py38haa95532_0  
+testpath                  0.5.0              pyhd3eb1b0_0  
+tinysegmenter             0.3                      pypi_0    pypi
+tldextract                3.1.2                    pypi_0    pypi
+tornado                   6.1              py38h2bbff1b_0  
+tqdm                      4.62.2             pyhd3eb1b0_1  
+traitlets                 5.1.0              pyhd3eb1b0_0  
+typing-extensions         3.7.4.3                       0    anaconda
+typing_extensions         3.7.4.3                    py_0    anaconda
+uritemplate               4.1.1                    pypi_0    pypi
+urllib3                   1.25.11                    py_0    anaconda
+vc                        14.2                 h21ff451_1  
+vs2015_runtime            14.27.29016          h5e58377_2  
+wcwidth                   0.2.5              pyhd3eb1b0_0  
+webencodings              0.5.1                    py38_1  
+wheel                     0.37.0             pyhd3eb1b0_1  
+win_inet_pton             1.1.0                    py38_0    anaconda
+wincertstore              0.2              py38haa95532_2  
+winpty                    0.4.3                         4  
+yarl                      1.5.1            py38he774522_0    anaconda
+zipp                      3.6.0              pyhd3eb1b0_0  
+zlib                      1.2.11           vc14h1cdd9ab_1  [vc14]  anaconda
