@@ -1,6 +1,7 @@
 import speech_recognition
 import playsound as ps
 from gtts import gTTS
+from audioplayer import AudioPlayer
 
 recognizer = speech_recognition.Recognizer()
 recognize_exit = ['stop', 'udahan', 'berhenti']
@@ -18,7 +19,7 @@ def bilang(text):
   filename = "rekaman.mp3"
   tts.save(filename)
   try:
-    ps.playsound(filename)
+    AudioPlayer(filename).play(block=True)
   except:
      print('Maaf lagi sariawan, gabisa ngomong dulu')
 
