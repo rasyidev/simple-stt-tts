@@ -17,13 +17,17 @@ def bilang(text):
   tts = gTTS(text=text, lang="id")
   filename = "rekaman.mp3"
   tts.save(filename)
-  ps.playsound(filename)
-
+  try:
+    ps.playsound(filename)
+  except:
+     print('Maaf lagi sariawan, gabisa ngomong dulu')
 
 while True:
   try:
     text = dengerin()
     bilang(text)
+     
+
     if text in recognize_exit:
       text = 'Makasih udah pake Voice Recognition Bahasa Indonesia!, Sampai Jumpa!'
       print(text)
