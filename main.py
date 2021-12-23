@@ -27,7 +27,7 @@ while True:
   try:
     text = dengerin()
     bilang(text)
-     
+
 
     if text in recognize_exit:
       text = 'Makasih udah pake Voice Recognition Bahasa Indonesia!, Sampai Jumpa!'
