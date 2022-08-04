@@ -23,17 +23,17 @@ def bilang(text):
   except:
      print('Maaf lagi sariawan, gabisa ngomong dulu')
 
-while True:
-  try:
-    text = dengerin()
-    bilang(text)
+# while True:
+#   try:
+#     text = dengerin()
+#     bilang(text)
 
 
-    if text in recognize_exit:
-      text = 'Makasih udah pake Voice Recognition Bahasa Indonesia!, Sampai Jumpa!'
-      print(text)
-      bilang(text)
-      break
-  except:
-    recognizer = speech_recognition.Recognizer()
-    continue
+#     if text in recognize_exit:
+#       text = 'Makasih udah pake Voice Recognition Bahasa Indonesia!, Sampai Jumpa!'
+#       print(text)
+#       bilang(text)
+#       break
+#   except:
+#     recognizer = speech_recognition.Recognizer()
+#     continue
